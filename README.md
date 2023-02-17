@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![Proj2](https://user-images.githubusercontent.com/75503782/219798527-4ae47592-7fad-4a07-b6ae-f2186a8d5590.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/75503782/219798527-4ae47592-7fad-4a07-b6ae-f2186a8d5590.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezgif.com
